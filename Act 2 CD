@@ -1,0 +1,12 @@
+using System;
+
+namespace Act_2_CD
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
